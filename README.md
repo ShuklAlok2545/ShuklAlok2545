@@ -40,15 +40,17 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 ---
 
-## ⚒ Languages-Frameworks-Tools ⚒
+## ⚒ Languages–Frameworks–Tools ⚒
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 
-<br><br>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 
 </p>
 
