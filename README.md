@@ -59,7 +59,5 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 ## ⚡ Stats ⚡
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ShuklAlok2545&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=ShuklAlok2545&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata"/>
 </p>
