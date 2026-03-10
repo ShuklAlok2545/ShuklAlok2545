@@ -60,14 +60,6 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 <p align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShuklAlok2545&show_icons=true&theme=tokyonight"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuklAlok2545&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=ShuklAlok2545&theme=tokyonight"/>
 
 </p>
