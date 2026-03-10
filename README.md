@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Alok+Kumar;MERN+Stack+Developer;DSA+in+C%2B%2B;Machine+Learning+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There+👋"/>
 </p>
 
 <p align="center">
@@ -8,17 +8,13 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 ---
 
-## 💻 About Me
-
 * 🔭 I’m currently working on **Machine Learning & Deep Learning**
-* 🌱 I’m currently learning **Advanced ML, DL and scalable systems**
+* 🌱 I’m currently learning **Advanced ML and Deep Learning**
 * 💻 Experienced in **MERN Stack Development**
 * 🧠 Strong interest in **Data Structures & Algorithms in C++**
 * 🚀 Passionate about **Competitive Programming and Problem Solving**
 
----
-
-## 🐍 Coding Profile
+🐍 **Here's my LeetCode Handle**
 
 <p align="center">
 <a href="https://leetcode.com/u/shuklalok2545/">
@@ -26,9 +22,11 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 </a>
 </p>
 
+⚡ **I believe anything worth doing is worth overdoing**
+
 ---
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
 
@@ -48,7 +46,7 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 ---
 
-# ⚒️ Languages • Frameworks • Tools
+# ⚒️ Languages • Frameworks • Tools ⚒️
 
 <p align="center">
 
@@ -58,7 +56,7 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 ---
 
-# ⚡ GitHub Stats
+# ⚡ Stats ⚡
 
 <p align="center">
 
@@ -68,19 +66,10 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShuklAlok2545&theme=tokyonight&border_radius=10"/>
-
+<img src="https://streak-stats.demolab.com?user=ShuklAlok2545&theme=tokyonight"/>
 </p>
 
 ---
 
 ⭐ **Always eager to learn, build impactful technology, and solve challenging problems through code.**
-
-
-⭐ **Always eager to learn, build, and solve challenging problems.**
