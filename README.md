@@ -22,7 +22,7 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 🐍 Here's my **LinkeDin Handle** <a href="https://linkedin.com/in/alok-shukla-ack">here</a>
 
-💬 Here's my **LinkeDin Handle** <a href="https://letstalksapp.netlify.app/">here</a>
+💬 Here **LetsTalks Handle** <a href="https://letstalksapp.netlify.app/">here</a>
 
 ⚡ I believe **Anything worth doing is worth overdoing**
 
