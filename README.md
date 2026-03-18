@@ -16,13 +16,15 @@ A passionate Computer Science Student from <b>NIT Srinagar, India</b>
 
 🧠 Strong focus on **Data Structures and Algorithms in C++**
 
+👀 Here's my **PortFolio Handle** <a href="https://shuklalokportfolio.netlify.app/">here</a>
+
 🌱 Here's my **LeetCode Handle** <a href="https://leetcode.com/u/shuklalok2545/">here</a>
 
 🐍 Here's my **LinkeDin Handle** <a href="https://linkedin.com/in/alok-shukla-ack">here</a>
 
 💬 Here **LetsTalks Handle** <a href="https://letstalksapp.netlify.app/">here</a>
 
-👀 Here's my **PortFolio Handle** <a href="https://shuklalokportfolio.netlify.app/">here</a>
+
 
 
 ⚡ I believe **Anything worth doing is worth overdoing**
